@@ -1,4 +1,4 @@
-# <p align="center"> BitCanna Node Archive by Expo | NodeOf Cosmonauts </p>
+# <p align="center"> BitCanna Node Archive </p>
 
 <p align="center">
 <img width="851" alt="Screenshot 2023-03-17 alle 10 01 11" src="https://user-images.githubusercontent.com/72707004/225859538-57916178-6655-41ba-ba13-420c90b9a384.png">
