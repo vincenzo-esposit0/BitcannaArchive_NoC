@@ -1,7 +1,7 @@
 # <p align="center"> BitCanna Node Archive </p>
 
 <p align="center">
-<img width="851" alt="Screenshot 2023-03-17 alle 10 01 11" src="https://user-images.githubusercontent.com/72707004/225859538-57916178-6655-41ba-ba13-420c90b9a384.png">
+<img width="851" alt="Logo" src="https://github.com/cosmostation/chainlist/assets/72707004/5bcc69b8-4b9c-4a5d-86fa-6f83fd08f51c">
 <br>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/cosmos_node?style=social">
 </p>
@@ -14,13 +14,12 @@
 
 ### General Info
 ***
-This application has been designed to provide users with an option to obtain Comdex crumbs, a cryptocurrency, to pay for their transactions. The user enters their CMDX address and receives Comdex crumbs every day.
+Bitcanna Chain Archive is a comprehensive website that provides a convenient solution for users to download and install the Bitcanna blockchain archive onto their own nodes. With this platform, users can effortlessly access the complete historical data of the Bitcanna blockchain. By downloading and installing the chain archive, users can quickly synchronize their nodes with the network, ensuring seamless connectivity and up-to-date information. 
 
-Comdex crumbs are small amounts of this cryptocurrency that can be used to pay for transactions. This way, the user can have an option to pay for their transactions without necessarily having to buy large amounts of Comdex.
+The website offers an intuitive interface, making it user-friendly and accessible to both novice and experienced users. Experience the convenience and reliability of Bitcanna Chain Archive as you enhance your participation in the Bitcanna network.
 
-This platform has been developed by the NodeOf Cosmonauts team, which specializes in developing blockchain solutions. The platform is designed to provide support to participants of the Comdex chain, who can use it as an option to pay for their transactions.
 ### Screenshot
-<img width="1533" alt="Screenshot 2023-03-17 alle 09 36 57" src="https://user-images.githubusercontent.com/72707004/225854364-2320d78b-96c6-4885-8610-fb78ed87e8c5.png">
+<img width="1533" alt="Screenshot 2023-03-17 alle 09 36 57" src="https://github.com/cosmostation/chainlist/assets/72707004/c4be6f9d-bf5f-413e-91b5-78dc3724c556">
 
 ## Technologies
 ***
@@ -38,17 +37,11 @@ To collaborate on the project, please contact the following email.
 ***
 A list of frequently asked questions
 
-1. **What do I need to do to access the platform and receive Comdex crumbs?**<br>
-A: To access the platform, you need to visit the website or application provided by the NodeOf Cosmonauts team and enter your CMDX address.
+1. **What advantages does Bitcanna Chain Archive offer compared to other solutions for downloading and installing the blockchain archive?**<br>
+A: Bitcanna Chain Archive provides a comprehensive and convenient solution that allows users to easily download and install the Bitcanna blockchain archive onto their own nodes. This enables them to effortlessly access the complete historical data of the Bitcanna blockchain and quickly synchronize their nodes with the network.
 
-2. **How much Comdex will I receive each day?**<br>
-A: The amount of Comdex you receive each day depends on the calculation made by the platform. However, Comdex crumbs are usually small amounts of the cryptocurrency.
+2. **Who can use Bitcanna Chain Archive?**<br>
+A: Bitcanna Chain Archive is designed to be user-friendly and accessible to both beginners and experienced users. Its intuitive interface allows anyone to download and install the Bitcanna chain archive and synchronize their nodes with the network quickly and seamlessly.
 
-3. **Can I use Comdex crumbs to pay for all transactions?**<br>
-A: Yes, Comdex crumbs can be used to pay for any transaction on the Comdex chain.
-
-4. **What if I don't receive my Comdex crumbs?**<br>
-A: If you encounter any issues with receiving your Comdex crumbs, you can contact the platform's support team to resolve the problem.
-
-5. **Is it safe to use this platform to receive Comdex?**<br>
-A: The platform has been developed by the NodeOf Cosmonauts team, which specializes in developing blockchain solutions. Therefore, using the platform to receive Comdex is safe and reliable.
+3. **How can I leverage Bitcanna Chain Archive to enhance my participation in the Bitcanna network?**<br>
+A: By using Bitcanna Chain Archive, you can access the complete archive of the Bitcanna blockchain, ensuring that your nodes are efficiently and reliably synchronized with the network. This allows you to maintain uninterrupted connectivity and have access to up-to-date information at all times. Take advantage of the convenience and reliability of Bitcanna Chain Archive to enhance your participation in the Bitcanna network.
